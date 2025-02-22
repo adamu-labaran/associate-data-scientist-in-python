@@ -1,0 +1,9 @@
+Reading the entire file:
+In Python you can manipulate files using libraries like pathlib.
+In Python you can iterate through files and access different extensions such as .txt and .csv.
+In Python you can change directories and create multiple files and directories.
+
+Reading the file line by line:
+In Python you can manipulate files using libraries like pathlib.
+In Python you can iterate through files and access different extensions such as .txt and .csv.
+In Python you can change directories and create multiple files and directories.
